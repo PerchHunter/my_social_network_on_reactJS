@@ -1,0 +1,16 @@
+#submit-message {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+#fullWidth {
+  border-radius: 10px;
+  background-color: whitesmoke;
+}
+
+.button-chat {
+  width: 140px;
+  cursor: pointer;
+  margin-left: 15px;
+}

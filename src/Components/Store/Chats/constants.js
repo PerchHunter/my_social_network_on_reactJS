@@ -1,0 +1,1 @@
+export const GET_CHATS_ACTION = "CHATS::GET_CHATS_ACTION";

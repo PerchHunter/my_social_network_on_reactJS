@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.header-logo {
+  width: 53%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.header-link {
+  width: 47%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-link a {
+  margin-right: 10px;
+}

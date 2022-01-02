@@ -1,0 +1,33 @@
+.chatListBlock {
+  display: flex;
+  margin: 2px 2px 2px 0px;
+}
+
+.chatList {
+  width: 100%;
+  min-width: 230px;
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+.MuiListItemText-root {
+  margin-left: 15px;
+}
+
+.MuiList-root {
+  height: 565px;
+  /* overflow-y: auto; */
+}
+
+.linkToChatList {
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+}
+
+.deleteChatIcon:hover {
+  color: #1565c0;
+}

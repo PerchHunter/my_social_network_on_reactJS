@@ -1,0 +1,2 @@
+export const SIGN_IN_ACTION = "AUTH::SIGN_IN_ACTION";
+export const ERROR_AUTH_ACTION = "AUTH:: ERROR_AUTH_ACTION";

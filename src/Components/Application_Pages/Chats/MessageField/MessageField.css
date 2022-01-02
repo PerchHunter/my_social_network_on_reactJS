@@ -1,0 +1,21 @@
+.message-field {
+  border: 3px;
+  background-color: whitesmoke;
+  height: 500px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  padding: 5px;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.message {
+  background-color: lightblue;
+  border-radius: 15px;
+}
+
+.messageTime {
+  display: flex;
+  flex-direction: column;
+  color: slategray;
+}
